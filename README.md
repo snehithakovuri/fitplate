@@ -74,13 +74,18 @@ src/
 
 ## 📸 Screenshots
 
-> *(Add images in your repo and update paths here)*
 
-- 🏠 **Landing Page – Hero Section**
-- 🙋 **Profile Setup**
-- 🍛 **Nutrition Log & Weight Tracker**
-- 🏃 **Workout Tracker & Weekly Summary**
-- 🧠 **AI Nutrition Advisor & Food History**
+- 🏠 **Landing Page – Hero Section** <img width="1915" height="911" alt="Screenshot 2025-07-31 150446" src="https://github.com/user-attachments/assets/c2352c20-ebeb-4e4e-9a5a-4a172cf297ff" />
+
+- 🙋 **Profile Setup** <img width="1919" height="911" alt="Screenshot 2025-07-31 150512" src="https://github.com/user-attachments/assets/37843593-cd52-4e70-9b0a-48bf83dc81e0" />
+
+- 🍛 **Nutrition Log & Weight Tracker** <img width="1919" height="733" alt="Screenshot 2025-07-22 194524" src="https://github.com/user-attachments/assets/2d7caddf-539d-4996-b170-9520d3b6e527" />
+
+- 🏃 **Workout Tracker & Weekly Summary** <img width="1919" height="912" alt="Screenshot 2025-07-22 194607" src="https://github.com/user-attachments/assets/d8a6611b-24c9-4786-9a62-adca246d5095" />
+
+- 🧠 **AI Nutrition Advisor & Food History** <img width="1919" height="687" alt="Screenshot 2025-07-22 194640" src="https://github.com/user-attachments/assets/d355c193-89e3-455e-8928-b6d9fc22378a" />
+
+
 
 ---
 
